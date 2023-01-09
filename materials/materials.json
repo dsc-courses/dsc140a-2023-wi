@@ -55,35 +55,6 @@
                 }
             }
         },
-        "homeworks": {
-            "publication_schema": {
-                "required_artifacts": [
-                    "homework.pdf",
-                    "solution.pdf",
-                    "template.zip"
-                ],
-                "optional_artifacts": [],
-                "metadata_schema": {
-                    "required_keys": {
-                        "due": {
-                            "type": "datetime"
-                        },
-                        "released": {
-                            "type": "datetime"
-                        },
-                        "number": {
-                            "type": "integer"
-                        },
-                        "topic": {
-                            "type": "string"
-                        }
-                    }
-                },
-                "allow_unspecified_artifacts": false,
-                "is_ordered": true
-            },
-            "publications": {}
-        },
         "discussions": {
             "publication_schema": {
                 "required_artifacts": [
@@ -134,6 +105,35 @@
                         },
                         "due": {
                             "type": "datetime"
+                        },
+                        "topic": {
+                            "type": "string"
+                        }
+                    }
+                },
+                "allow_unspecified_artifacts": false,
+                "is_ordered": true
+            },
+            "publications": {}
+        },
+        "homeworks": {
+            "publication_schema": {
+                "required_artifacts": [
+                    "homework.pdf",
+                    "solution.pdf",
+                    "template.zip"
+                ],
+                "optional_artifacts": [],
+                "metadata_schema": {
+                    "required_keys": {
+                        "due": {
+                            "type": "datetime"
+                        },
+                        "released": {
+                            "type": "datetime"
+                        },
+                        "number": {
+                            "type": "integer"
                         },
                         "topic": {
                             "type": "string"
