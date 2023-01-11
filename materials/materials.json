@@ -54,8 +54,20 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/01-knn/slides.pdf"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/01-knn/slides-marked.pdf"
                         }
                     }
+                },
+                "02-linear_models/src": {
+                    "metadata": {
+                        "date": "2023-01-12",
+                        "number": 2,
+                        "topic": "Linear Predictors",
+                        "videos": null
+                    },
+                    "artifacts": {}
                 }
             }
         },
@@ -90,7 +102,17 @@
                 "allow_unspecified_artifacts": false,
                 "is_ordered": true
             },
-            "publications": {}
+            "publications": {
+                "01-linear_algebra": {
+                    "metadata": {
+                        "date": "2023-01-12",
+                        "number": 1,
+                        "topic": "Linear Algebra Refresher",
+                        "recording": null
+                    },
+                    "artifacts": {}
+                }
+            }
         },
         "labs": {
             "publication_schema": {
