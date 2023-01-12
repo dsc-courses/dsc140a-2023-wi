@@ -105,7 +105,7 @@
             "publications": {
                 "01-linear_algebra": {
                     "metadata": {
-                        "date": "2023-01-12",
+                        "date": "2023-01-19",
                         "number": 1,
                         "topic": "Linear Algebra Refresher",
                         "recording": null
@@ -140,7 +140,18 @@
                 "allow_unspecified_artifacts": false,
                 "is_ordered": true
             },
-            "publications": {}
+            "publications": {
+                "01-nearest_neighbor_and_linear_models": {
+                    "metadata": {
+                        "number": 1,
+                        "released": "2023-01-10 00:00:00",
+                        "ready": true,
+                        "due": "2023-01-15 23:59:00",
+                        "topic": "Nearest Neighbor and Regression"
+                    },
+                    "artifacts": {}
+                }
+            }
         },
         "homeworks": {
             "publication_schema": {
@@ -169,7 +180,24 @@
                 "allow_unspecified_artifacts": false,
                 "is_ordered": true
             },
-            "publications": {}
+            "publications": {
+                "01-nearest_neighbor_and_linear_models": {
+                    "metadata": {
+                        "due": "2023-01-18 23:59:00",
+                        "released": "2023-01-12 00:00:00",
+                        "number": 1,
+                        "topic": "Nearest Neighbors and Linear Regression"
+                    },
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/01-nearest_neighbor_and_linear_models/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/01-nearest_neighbor_and_linear_models/template.zip"
+                        }
+                    }
+                }
+            }
         },
         "default": {
             "publication_schema": {
