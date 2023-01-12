@@ -59,15 +59,6 @@
                             "path": "lectures/01-knn/slides-marked.pdf"
                         }
                     }
-                },
-                "02-linear_models/src": {
-                    "metadata": {
-                        "date": "2023-01-12",
-                        "number": 2,
-                        "topic": "Linear Predictors",
-                        "videos": null
-                    },
-                    "artifacts": {}
                 }
             }
         },
