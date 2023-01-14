@@ -70,6 +70,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/02-linear_models/slides.pdf"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/02-linear_models/slides-marked.pdf"
                         }
                     }
                 }
