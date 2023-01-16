@@ -109,17 +109,7 @@
                 "allow_unspecified_artifacts": false,
                 "is_ordered": true
             },
-            "publications": {
-                "01-linear_algebra": {
-                    "metadata": {
-                        "date": "2023-01-19",
-                        "number": 1,
-                        "topic": "Linear Algebra Refresher",
-                        "recording": null
-                    },
-                    "artifacts": {}
-                }
-            }
+            "publications": {}
         },
         "labs": {
             "publication_schema": {
