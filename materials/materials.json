@@ -75,6 +75,15 @@
                             "path": "lectures/02-linear_models/slides-marked.pdf"
                         }
                     }
+                },
+                "03-linear_models-II": {
+                    "metadata": {
+                        "date": "2023-01-17",
+                        "number": 3,
+                        "topic": "Least Squares Regression and Perceptrons",
+                        "videos": null
+                    },
+                    "artifacts": {}
                 }
             }
         },
