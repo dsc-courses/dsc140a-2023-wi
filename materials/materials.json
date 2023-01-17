@@ -83,7 +83,11 @@
                         "topic": "Least Squares Regression and Perceptrons",
                         "videos": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/03-linear_models-II/slides.pdf"
+                        }
+                    }
                 }
             }
         },
