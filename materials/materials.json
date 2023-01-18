@@ -122,7 +122,21 @@
                 "allow_unspecified_artifacts": false,
                 "is_ordered": true
             },
-            "publications": {}
+            "publications": {
+                "01-gradient": {
+                    "metadata": {
+                        "date": "2023-01-19",
+                        "number": 1,
+                        "topic": "Gradients",
+                        "recording": null
+                    },
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "discussions/01-gradient/discussion.pdf"
+                        }
+                    }
+                }
+            }
         },
         "labs": {
             "publication_schema": {
