@@ -88,6 +88,19 @@
                             "path": "lectures/03-linear_models-II/slides.pdf"
                         }
                     }
+                },
+                "04-gradient_descent": {
+                    "metadata": {
+                        "date": "2023-01-19",
+                        "number": 4,
+                        "topic": "Gradient Descent",
+                        "videos": null
+                    },
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/04-gradient_descent/slides.pdf"
+                        }
+                    }
                 }
             }
         },
