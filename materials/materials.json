@@ -6,7 +6,9 @@
                     "slides.pdf"
                 ],
                 "optional_artifacts": [
-                    "slides-marked.pdf"
+                    "slides-marked.pdf",
+                    "mikio-slides.pdf",
+                    "mikio-slides-marked.pdf"
                 ],
                 "metadata_schema": {
                     "optional_keys": {
