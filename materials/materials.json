@@ -88,6 +88,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/03-linear_models-II/slides.pdf"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/03-linear_models-II/slides-marked.pdf"
                         }
                     }
                 },
@@ -101,6 +104,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/04-gradient_descent/slides.pdf"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/04-gradient_descent/slides-marked.pdf"
                         },
                         "mikio-slides.pdf": {
                             "path": "lectures/04-gradient_descent/mikio-slides.pdf"
