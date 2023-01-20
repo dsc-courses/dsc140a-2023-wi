@@ -101,6 +101,12 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/04-gradient_descent/slides.pdf"
+                        },
+                        "mikio-slides.pdf": {
+                            "path": "lectures/04-gradient_descent/mikio-slides.pdf"
+                        },
+                        "mikio-slides-marked.pdf": {
+                            "path": "lectures/04-gradient_descent/mikio-slides-marked.pdf"
                         }
                     }
                 }
