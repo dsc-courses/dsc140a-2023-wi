@@ -115,6 +115,19 @@
                             "path": "lectures/04-gradient_descent/mikio-slides-marked.pdf"
                         }
                     }
+                },
+                "05-convexity": {
+                    "metadata": {
+                        "date": "2023-01-24",
+                        "number": 5,
+                        "topic": "Stochastic Gradient Descent and Convexity",
+                        "videos": null
+                    },
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/05-convexity/slides.pdf"
+                        }
+                    }
                 }
             }
         },
@@ -242,6 +255,9 @@
                     "artifacts": {
                         "homework.pdf": {
                             "path": "homeworks/01-nearest_neighbor_and_linear_models/homework.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "homeworks/01-nearest_neighbor_and_linear_models/solution.pdf"
                         },
                         "template.zip": {
                             "path": "homeworks/01-nearest_neighbor_and_linear_models/template.zip"
