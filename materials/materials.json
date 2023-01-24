@@ -175,6 +175,15 @@
                             "path": "discussions/01-gradient/discussion.pdf"
                         }
                     }
+                },
+                "02-convexity": {
+                    "metadata": {
+                        "date": "2023-01-26",
+                        "number": 2,
+                        "topic": "Convexity",
+                        "recording": null
+                    },
+                    "artifacts": {}
                 }
             }
         },
