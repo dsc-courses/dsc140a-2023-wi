@@ -183,7 +183,11 @@
                         "topic": "Convexity",
                         "recording": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "discussions/02-convexity/discussion.pdf"
+                        }
+                    }
                 }
             }
         },
