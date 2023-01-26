@@ -134,6 +134,19 @@
                             "path": "lectures/05-convexity/mikio-slides-marked.pdf"
                         }
                     }
+                },
+                "06-svm": {
+                    "metadata": {
+                        "date": "2023-01-26",
+                        "number": 6,
+                        "topic": "SVMs",
+                        "videos": null
+                    },
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/06-svm/slides.pdf"
+                        }
+                    }
                 }
             }
         },
