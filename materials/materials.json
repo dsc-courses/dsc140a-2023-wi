@@ -126,6 +126,12 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/05-convexity/slides.pdf"
+                        },
+                        "mikio-slides.pdf": {
+                            "path": "lectures/05-convexity/mikio-slides.pdf"
+                        },
+                        "mikio-slides-marked.pdf": {
+                            "path": "lectures/05-convexity/mikio-slides-marked.pdf"
                         }
                     }
                 }
