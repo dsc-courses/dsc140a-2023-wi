@@ -311,6 +311,22 @@
                             "path": "homeworks/02-linear_models_and_gradient/template.zip"
                         }
                     }
+                },
+                "03-sgd_and_svm": {
+                    "metadata": {
+                        "due": "2023-02-01 23:59:00",
+                        "released": "2023-01-26 00:00:00",
+                        "number": 3,
+                        "topic": "Convexity and SVM"
+                    },
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/03-sgd_and_svm/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/03-sgd_and_svm/template.zip"
+                        }
+                    }
                 }
             }
         },
