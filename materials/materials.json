@@ -161,9 +161,6 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/07-regularization/slides.pdf"
-                        },
-                        "slides-marked.pdf": {
-                            "path": "lectures/07-regularization/slides-marked.pdf"
                         }
                     }
                 }
