@@ -150,6 +150,22 @@
                             "path": "lectures/06-svm/slides-marked.pdf"
                         }
                     }
+                },
+                "07-regularization": {
+                    "metadata": {
+                        "date": "2023-01-31",
+                        "number": 7,
+                        "topic": "Regularization",
+                        "videos": null
+                    },
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/07-regularization/slides.pdf"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/07-regularization/slides-marked.pdf"
+                        }
+                    }
                 }
             }
         },
