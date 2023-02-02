@@ -166,6 +166,19 @@
                             "path": "lectures/07-regularization/slides-marked.pdf"
                         }
                     }
+                },
+                "08-kernels": {
+                    "metadata": {
+                        "date": "2023-02-02",
+                        "number": 8,
+                        "topic": "Kernels",
+                        "videos": null
+                    },
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/08-kernels/slides.pdf"
+                        }
+                    }
                 }
             }
         },
