@@ -164,6 +164,9 @@
                         },
                         "slides-marked.pdf": {
                             "path": "lectures/07-regularization/slides-marked.pdf"
+                        },
+                        "mikio-slides-marked.pdf": {
+                            "path": "lectures/07-regularization/mikio-slides-marked.pdf"
                         }
                     }
                 },
