@@ -180,6 +180,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/08-kernels/slides.pdf"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/08-kernels/slides-marked.pdf"
                         }
                     }
                 }
