@@ -185,6 +185,19 @@
                             "path": "lectures/08-kernels/slides-marked.pdf"
                         }
                     }
+                },
+                "09-neural_networks": {
+                    "metadata": {
+                        "date": "2023-02-07",
+                        "number": 9,
+                        "topic": "Neural Networks",
+                        "videos": null
+                    },
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/09-neural_networks/slides.pdf"
+                        }
+                    }
                 }
             }
         },
