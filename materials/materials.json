@@ -196,6 +196,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/09-neural_networks/slides.pdf"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/09-neural_networks/slides-marked.pdf"
                         }
                     }
                 }
