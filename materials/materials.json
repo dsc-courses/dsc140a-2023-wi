@@ -416,6 +416,22 @@
                             "path": "homeworks/04-regularizers_and_kernels/template.zip"
                         }
                     }
+                },
+                "05-neural_networks": {
+                    "metadata": {
+                        "due": "2023-02-15 23:59:00",
+                        "released": "2023-02-09 00:00:00",
+                        "number": 5,
+                        "topic": "Neural Networks"
+                    },
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/05-neural_networks/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/05-neural_networks/template.zip"
+                        }
+                    }
                 }
             }
         },
