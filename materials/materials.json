@@ -424,14 +424,7 @@
                         "number": 5,
                         "topic": "Neural Networks"
                     },
-                    "artifacts": {
-                        "homework.pdf": {
-                            "path": "homeworks/05-neural_networks/homework.pdf"
-                        },
-                        "template.zip": {
-                            "path": "homeworks/05-neural_networks/template.zip"
-                        }
-                    }
+                    "artifacts": {}
                 }
             }
         },
