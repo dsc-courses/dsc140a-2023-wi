@@ -207,7 +207,20 @@
                         "date": "2023-02-14",
                         "number": 10,
                         "topic": "Bayes Decision Theory",
-                        "videos": null
+                        "videos": [
+                            {
+                                "title": "Probabilistic Modeling",
+                                "url": "https://youtu.be/NjSSmvzzpdo"
+                            },
+                            {
+                                "title": "Continuous Distributions",
+                                "url": "https://youtu.be/AVgFyuB9h7k"
+                            },
+                            {
+                                "title": "Bayes Optimal Classifier",
+                                "url": "https://youtu.be/MCowepdAQNc"
+                            }
+                        ]
                     },
                     "artifacts": {
                         "slides.pdf": {
