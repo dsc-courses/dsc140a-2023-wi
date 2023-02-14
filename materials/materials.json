@@ -201,6 +201,19 @@
                             "path": "lectures/09-neural_networks/slides-marked.pdf"
                         }
                     }
+                },
+                "10-bayes_decision_theory": {
+                    "metadata": {
+                        "date": "2023-02-14",
+                        "number": 10,
+                        "topic": "Bayes Decision Theory",
+                        "videos": null
+                    },
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/10-bayes_decision_theory/slides.pdf"
+                        }
+                    }
                 }
             }
         },
