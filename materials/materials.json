@@ -300,6 +300,19 @@
                             "path": "discussions/03-kernels/discussion.pdf"
                         }
                     }
+                },
+                "04-probabilistic_modeling": {
+                    "metadata": {
+                        "date": "2023-02-15",
+                        "number": 4,
+                        "topic": "Probabilistic Modeling",
+                        "recording": null
+                    },
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "discussions/04-probabilistic_modeling/discussion.pdf"
+                        }
+                    }
                 }
             }
         },
