@@ -228,6 +228,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/10-bayes_decision_theory/slides.pdf"
+                        },
+                        "mikio-slides-marked.pdf": {
+                            "path": "lectures/10-bayes_decision_theory/mikio-slides-marked.pdf"
                         }
                     }
                 },
