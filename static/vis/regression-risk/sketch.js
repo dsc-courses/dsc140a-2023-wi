@@ -104,6 +104,7 @@ let s1 = function (sketch) {
 
     sketch.setup = function () {
         sketch.createCanvas(500, 500);
+        sketch.createEasyCam();
         data = generateData(30);
 
         sketch.createP('w_0');
