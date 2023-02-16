@@ -199,6 +199,9 @@
                         },
                         "slides-marked.pdf": {
                             "path": "lectures/09-neural_networks/slides-marked.pdf"
+                        },
+                        "mikio-slides-marked.pdf": {
+                            "path": "lectures/09-neural_networks/mikio-slides-marked.pdf"
                         }
                     }
                 },
