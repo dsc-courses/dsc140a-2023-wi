@@ -227,6 +227,19 @@
                             "path": "lectures/10-bayes_decision_theory/slides.pdf"
                         }
                     }
+                },
+                "11-density_estimation": {
+                    "metadata": {
+                        "date": "2023-02-16",
+                        "number": 10,
+                        "topic": "Density Estimation",
+                        "videos": null
+                    },
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/11-density_estimation/slides.pdf"
+                        }
+                    }
                 }
             }
         },
