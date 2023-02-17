@@ -493,6 +493,22 @@
                             "path": "homeworks/05-neural_networks/template.zip"
                         }
                     }
+                },
+                "06-competition": {
+                    "metadata": {
+                        "due": "2023-02-22 23:59:00",
+                        "released": "2023-02-16 00:00:00",
+                        "number": 6,
+                        "topic": "Review"
+                    },
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/06-competition/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/06-competition/template.zip"
+                        }
+                    }
                 }
             }
         },
