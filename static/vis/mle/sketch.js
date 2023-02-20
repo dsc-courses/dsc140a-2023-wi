@@ -54,7 +54,7 @@ function sketch_curve (sketch) {
             sketch.drawingContext.setLineDash([2, 4]);
             sketch.stroke(PASTELBLUE);
             sketch.line(x0, y0, x1, y1);
-            sketch.drawingContext.setLineDash([0]);
+            sketch.drawingContext.setLineDash([1, 0]);
         }
     }
 
