@@ -240,7 +240,7 @@
                 "11-density_estimation": {
                     "metadata": {
                         "date": "2023-02-16",
-                        "number": 10,
+                        "number": 11,
                         "topic": "Density Estimation",
                         "videos": null
                     },
@@ -250,6 +250,19 @@
                         },
                         "slides-marked.pdf": {
                             "path": "lectures/11-density_estimation/slides-marked.pdf"
+                        }
+                    }
+                },
+                "12-mle": {
+                    "metadata": {
+                        "date": "2023-02-21",
+                        "number": 12,
+                        "topic": "Maximum Likelihood",
+                        "videos": null
+                    },
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/12-mle/slides.pdf"
                         }
                     }
                 }
