@@ -263,6 +263,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/12-mle/slides.pdf"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/12-mle/slides-marked.pdf"
                         }
                     }
                 }
