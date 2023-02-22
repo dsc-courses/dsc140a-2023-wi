@@ -354,6 +354,19 @@
                             "path": "discussions/04-probabilistic_modeling/discussion.pdf"
                         }
                     }
+                },
+                "05-multivariate-gaussians": {
+                    "metadata": {
+                        "date": "2023-02-22",
+                        "number": 5,
+                        "topic": "Bayes Classifiers",
+                        "recording": null
+                    },
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "discussions/05-multivariate-gaussians/discussion.pdf"
+                        }
+                    }
                 }
             }
         },
