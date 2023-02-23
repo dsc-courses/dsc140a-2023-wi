@@ -268,6 +268,19 @@
                             "path": "lectures/12-mle/slides-marked.pdf"
                         }
                     }
+                },
+                "13-mv-gaussians": {
+                    "metadata": {
+                        "date": "2023-02-23",
+                        "number": 12,
+                        "topic": "Multivariate Gaussians",
+                        "videos": null
+                    },
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/13-mv-gaussians/slides.pdf"
+                        }
+                    }
                 }
             }
         },
