@@ -298,9 +298,6 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/14-naive_bayes/slides.pdf"
-                        },
-                        "slides-marked.pdf": {
-                            "path": "lectures/14-naive_bayes/slides-marked.pdf"
                         }
                     }
                 }
