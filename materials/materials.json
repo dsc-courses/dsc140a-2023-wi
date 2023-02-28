@@ -287,6 +287,22 @@
                             "path": "lectures/13-mv-gaussians/slides-marked.pdf"
                         }
                     }
+                },
+                "14-naive_bayes": {
+                    "metadata": {
+                        "date": "2023-02-28",
+                        "number": 14,
+                        "topic": "Naive Bayes",
+                        "videos": null
+                    },
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/14-naive_bayes/slides.pdf"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/14-naive_bayes/slides-marked.pdf"
+                        }
+                    }
                 }
             }
         },
