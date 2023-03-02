@@ -300,6 +300,19 @@
                             "path": "lectures/14-naive_bayes/slides.pdf"
                         }
                     }
+                },
+                "15-regression_probabilistic": {
+                    "metadata": {
+                        "date": "2023-03-02",
+                        "number": 15,
+                        "topic": "Regression (Probabilistic View)",
+                        "videos": null
+                    },
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/15-regression_probabilistic/slides.pdf"
+                        }
+                    }
                 }
             }
         },
@@ -590,6 +603,22 @@
                         },
                         "template.zip": {
                             "path": "homeworks/07-probabilistic/template.zip"
+                        }
+                    }
+                },
+                "08-naive": {
+                    "metadata": {
+                        "due": "2023-03-08 23:59:00",
+                        "released": "2023-03-02 00:00:00",
+                        "number": 7,
+                        "topic": "Naive Bayes and Regression"
+                    },
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/08-naive/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/08-naive/template.zip"
                         }
                     }
                 }
