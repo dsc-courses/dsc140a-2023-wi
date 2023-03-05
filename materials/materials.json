@@ -91,6 +91,9 @@
                         },
                         "slides-marked.pdf": {
                             "path": "lectures/03-linear_models-II/slides-marked.pdf"
+                        },
+                        "mikio-slides-marked.pdf": {
+                            "path": "lectures/03-linear_models-II/mikio-slides-marked.pdf"
                         }
                     }
                 },
@@ -285,6 +288,9 @@
                         },
                         "slides-marked.pdf": {
                             "path": "lectures/13-mv-gaussians/slides-marked.pdf"
+                        },
+                        "mikio-slides-marked.pdf": {
+                            "path": "lectures/13-mv-gaussians/mikio-slides-marked.pdf"
                         }
                     }
                 },
@@ -298,6 +304,12 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/14-naive_bayes/slides.pdf"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/14-naive_bayes/slides-marked.pdf"
+                        },
+                        "mikio-slides-marked.pdf": {
+                            "path": "lectures/14-naive_bayes/mikio-slides-marked.pdf"
                         }
                     }
                 },
@@ -311,6 +323,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/15-regression_probabilistic/slides.pdf"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/15-regression_probabilistic/slides-marked.pdf"
                         }
                     }
                 }
@@ -410,6 +425,19 @@
                     "artifacts": {
                         "discussion.pdf": {
                             "path": "discussions/05-multivariate-gaussians/discussion.pdf"
+                        }
+                    }
+                },
+                "06-review": {
+                    "metadata": {
+                        "date": "2023-03-08",
+                        "number": 6,
+                        "topic": "Midterm 02 Review",
+                        "recording": null
+                    },
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "discussions/06-review/discussion.pdf"
                         }
                     }
                 }
@@ -610,7 +638,7 @@
                     "metadata": {
                         "due": "2023-03-08 23:59:00",
                         "released": "2023-03-02 00:00:00",
-                        "number": 7,
+                        "number": 8,
                         "topic": "Naive Bayes and Regression"
                     },
                     "artifacts": {
