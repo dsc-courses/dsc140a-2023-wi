@@ -328,6 +328,19 @@
                             "path": "lectures/15-regression_probabilistic/slides-marked.pdf"
                         }
                     }
+                },
+                "16-decision_trees": {
+                    "metadata": {
+                        "date": "2023-03-07",
+                        "number": 16,
+                        "topic": "Decision Trees",
+                        "videos": null
+                    },
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/16-decision_trees/slides.pdf"
+                        }
+                    }
                 }
             }
         },
