@@ -613,6 +613,9 @@
                         "homework.pdf": {
                             "path": "homeworks/05-neural_networks/homework.pdf"
                         },
+                        "solution.pdf": {
+                            "path": "homeworks/05-neural_networks/solution.pdf"
+                        },
                         "template.zip": {
                             "path": "homeworks/05-neural_networks/template.zip"
                         }
@@ -644,6 +647,9 @@
                     "artifacts": {
                         "homework.pdf": {
                             "path": "homeworks/07-probabilistic/homework.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "homeworks/07-probabilistic/solution.pdf"
                         },
                         "template.zip": {
                             "path": "homeworks/07-probabilistic/template.zip"
