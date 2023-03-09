@@ -667,6 +667,9 @@
                         "homework.pdf": {
                             "path": "homeworks/08-naive/homework.pdf"
                         },
+                        "solution.pdf": {
+                            "path": "homeworks/08-naive/solution.pdf"
+                        },
                         "template.zip": {
                             "path": "homeworks/08-naive/template.zip"
                         }
